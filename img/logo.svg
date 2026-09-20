@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+<rect width="400" height="100" fill="#080808"/>
+<rect x="10" y="10" width="80" height="80" fill="none" stroke="#c9a35b"/>
+<text x="35" y="67" font-family="Georgia,serif" font-size="52" fill="#c9a35b">M</text>
+<text x="110" y="60" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="6" fill="#f4f1e9">EL MAHDY</text>
+<text x="112" y="82" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#c9a35b">STORE</text>
+</svg>
