@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized Essential Tee",
+    "category": "T-Shirts",
+    "price": 650,
+    "oldPrice": 800,
+    "badge": "BEST SELLER",
+    "meta": "Heavy Cotton / Black",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "A heavyweight everyday tee with a relaxed oversized cut."
+  },
+  {
+    "id": 2,
+    "name": "Midnight Boxy Tee",
+    "category": "T-Shirts",
+    "price": 590,
+    "oldPrice": null,
+    "badge": "NEW",
+    "meta": "Premium Cotton / Black",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Clean lines and relaxed proportions."
+  },
+  {
+    "id": 3,
+    "name": "Classic Straight Denim",
+    "category": "Pants",
+    "price": 1250,
+    "oldPrice": 1450,
+    "badge": "-14%",
+    "meta": "Denim / Washed Black",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "desc": "Straight-leg denim with an everyday silhouette."
+  },
+  {
+    "id": 4,
+    "name": "Urban Cargo Pants",
+    "category": "Pants",
+    "price": 1100,
+    "oldPrice": null,
+    "badge": "NEW",
+    "meta": "Cargo / Graphite",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "desc": "Functional cargo pockets and clean taper."
+  },
+  {
+    "id": 5,
+    "name": "Gold Accent Cap",
+    "category": "Accessories",
+    "price": 450,
+    "oldPrice": 520,
+    "badge": "LIMITED",
+    "meta": "Cotton Twill / Black",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "desc": "A structured black cap with a gold accent."
+  },
+  {
+    "id": 6,
+    "name": "Signature Crossbody",
+    "category": "Accessories",
+    "price": 750,
+    "oldPrice": null,
+    "badge": "NEW",
+    "meta": "Technical Fabric / Black",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "desc": "Compact and practical."
+  },
+  {
+    "id": 7,
+    "name": "Melton Relaxed Pants",
+    "category": "Pants",
+    "price": 1350,
+    "oldPrice": 1550,
+    "badge": "SALE",
+    "meta": "Melton / Black",
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "desc": "Relaxed melton trousers."
+  },
+  {
+    "id": 8,
+    "name": "Essential Hoodie",
+    "category": "T-Shirts",
+    "price": 1150,
+    "oldPrice": null,
+    "badge": "COMING SOON",
+    "meta": "Fleece / Black",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Soft heavyweight fleece."
+  }
+]
